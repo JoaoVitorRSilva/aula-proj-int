@@ -1,2 +1,2 @@
-#Site
-Criação de u site para venda de bebidas.
+# Site
+Criação de site para venda de bebidas.
